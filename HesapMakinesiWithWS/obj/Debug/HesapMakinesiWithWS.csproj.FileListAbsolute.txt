@@ -1,0 +1,14 @@
+C:\Users\HasKhan\Desktop\HesapMakinesiWithWS\HesapMakinesiWithWS\bin\Debug\HesapMakinesiWithWS.exe.config
+C:\Users\HasKhan\Desktop\HesapMakinesiWithWS\HesapMakinesiWithWS\bin\Debug\HesapMakinesiWithWS.exe
+C:\Users\HasKhan\Desktop\HesapMakinesiWithWS\HesapMakinesiWithWS\bin\Debug\HesapMakinesiWithWS.pdb
+C:\Users\HasKhan\Desktop\HesapMakinesiWithWS\HesapMakinesiWithWS\bin\Debug\EntityFramework.dll
+C:\Users\HasKhan\Desktop\HesapMakinesiWithWS\HesapMakinesiWithWS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HasKhan\Desktop\HesapMakinesiWithWS\HesapMakinesiWithWS\bin\Debug\EntityFramework.xml
+C:\Users\HasKhan\Desktop\HesapMakinesiWithWS\HesapMakinesiWithWS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HasKhan\Desktop\HesapMakinesiWithWS\HesapMakinesiWithWS\obj\Debug\HesapMakinesiWithWS.csprojResolveAssemblyReference.cache
+C:\Users\HasKhan\Desktop\HesapMakinesiWithWS\HesapMakinesiWithWS\obj\Debug\HesapMakinesiWithWS.Form1.resources
+C:\Users\HasKhan\Desktop\HesapMakinesiWithWS\HesapMakinesiWithWS\obj\Debug\HesapMakinesiWithWS.Migrations.IslemTarihiKolonEkleme.resources
+C:\Users\HasKhan\Desktop\HesapMakinesiWithWS\HesapMakinesiWithWS\obj\Debug\HesapMakinesiWithWS.Properties.Resources.resources
+C:\Users\HasKhan\Desktop\HesapMakinesiWithWS\HesapMakinesiWithWS\obj\Debug\HesapMakinesiWithWS.csproj.GenerateResource.Cache
+C:\Users\HasKhan\Desktop\HesapMakinesiWithWS\HesapMakinesiWithWS\obj\Debug\HesapMakinesiWithWS.exe
+C:\Users\HasKhan\Desktop\HesapMakinesiWithWS\HesapMakinesiWithWS\obj\Debug\HesapMakinesiWithWS.pdb
